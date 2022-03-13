@@ -11,17 +11,17 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	height: 100vh;
 	margin: 0;
 	background-color: black;
 	color: white;
+}
+main {
+	width: 100%;
 }
 
 .videos {
 	display: flex;
 	justify-content: center;
-	height: 50vh;
-	width: 100vw;
 }
 
 lite-youtube {
@@ -29,12 +29,19 @@ lite-youtube {
 }
 
 .social-media {
+	padding: 0;
 	display: flex;
-	width: 100vw;
 	justify-content: center;
 }
 
 i {
 	font-size: 4rem;
-	padding: 1rem;
+	padding: 2rem;
+}
+
+.contact button {
+	padding: 0.4rem;
+}
+.contact button:hover {
+	cursor: pointer;
 }
