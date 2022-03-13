@@ -39,6 +39,14 @@ i {
 	padding: 2rem;
 }
 
+input,
+textarea {
+	width: 15rem;
+	padding: 0.1rem;
+	border-radius: 1rem;
+	font-size: 1rem;
+}
+
 .contact button {
 	padding: 0.4rem;
 }
