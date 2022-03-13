@@ -1,11 +1,9 @@
-@import url('http://fonts.cdnfonts.com/css/revo');
-
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
 * {
 	box-sizing: border-box;
 	list-style: none;
 	text-align: center;
-	font-family: 'Revo™', sans-serif;
-	/* font-family: 'RevoPop™', sans-serif; */
+	font-family: 'Fredoka', sans-serif;
 }
 
 body {
