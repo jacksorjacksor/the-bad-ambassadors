@@ -1,9 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Fredoka&display=swap');
 * {
 	box-sizing: border-box;
 	list-style: none;
 	text-align: center;
 	font-family: 'Fredoka', sans-serif;
+}
+
+h1 {
+	font-size: 4rem;
+	font-family: 'Dancing Script', cursive;
+	margin: 1rem;
 }
 
 body {
@@ -54,4 +60,8 @@ button {
 
 .contact button:hover {
 	cursor: pointer;
+}
+
+a {
+	color: lightskyblue;
 }
